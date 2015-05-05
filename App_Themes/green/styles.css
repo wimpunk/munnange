@@ -1,0 +1,68 @@
+/* content */
+.text-header { font-weight: bold; font-size: 12pt; font-family: "Arial Narrow", Arial, sans-serif; color: #065C59;}
+.pageContent { font-size: 8pt; font-family: Tahoma, sans-serif; color: #818181; }
+ .pageContent a { font-size: 8pt; font-family: Tahoma, sans-serif; color: #8D8D8D; }
+
+/* top elements */
+.company {
+	font-weight: bold;
+	font-size: 13pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+.slogan {
+	font-weight: normal;
+	font-size: 8pt;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+}
+
+/*main menu*/
+.menu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #CFE8ED; text-decoration: underline; }
+.amenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #CFE8ED; text-decoration: none; }
+
+/*submenu*/
+.submenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #27344B; text-decoration: underline; }
+.asubmenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #27344B; text-decoration: none; }
+
+/*bottom menu*/
+.bmenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #27344B; text-decoration: underline; }
+.abmenu { font-size: 8pt; font-family: Tahoma, sans-serif; color: #27344B; text-decoration: none; }
+
+/*copyright*/
+.footer { font-size: 8pt; font-family: Tahoma, sans-serif; color: #818181; }
+
+/*backgrounds*/
+.main-bg { background-color: #E1E1E1; }
+.submenu-bg { background-color: #4E8BC1; }
+.menu-hr { background-color: #6BA4CF; }
+.line { background-color: #CACACA; }
+.border{
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #FFFFFF;
+}
+
+.img_bullet {  width:30; height:30; }
+.img_blank_1_1_1 {  width:10; height:10; }
+
+
+.img_titlebullet {  width:26; height:25; }
+.img_hr {  width:193; height:3; }
+
+.img_blank_1 {  width:577; height:1; }
+.img_blank {  width:30; height:45; }
+.img_vhr_1_1 {  width:2; height:49; }
+.img_menuhr_1 {  width:145; height:3; }
+.img_submenubullet {  width:25; height:28; }
+.img_btmenubullet {  width:14; height:64; }
+.img_vhr_1 {  width:2; height:45; }
+
+.img_hr_1 {  width:100%; height:3; }
+.img_submenuhr_1 {  width:145; height:3; }
+
+
+
+.img_blank_1_1 {  width:193; height:20; }
+.img_logo_cssclass1 { border:0;}
