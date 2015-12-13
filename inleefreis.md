@@ -1,214 +1,11 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>
-	vzw Munnange - Inleefreis (Nederlands)
-</title>
-<meta name="KEYWORDS" />
-<meta name="DESCRIPTION" />
-	<style>img { behavior:url('/images/pngbehavior.htc'); }</style>
-<link href="App_Themes/green/styles.css" type="text/css" rel="stylesheet" />
-<link href="App_Themes/green/Modules.css" type="text/css" rel="stylesheet" />
-<meta name="GENERATOR" content="Parallels Plesk Sitebuilder 4.5 for Windows" />
-</head>
-<body bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF">
-<input type="hidden" id='linkToBlank' value='images/blank.gif' />
-<form name="aspnetForm" method="post" action="inleefreis.html" id="aspnetForm">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTcwODg1MTE2NmRkN6v2Xmmjz1r0WPkJI9QRwgAAAAA=" />
-</div>
-
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td height="227">
-<table width="100%" height="277" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td height="277">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td class="border" style="background-image: url(App_Themes/green/images/headbg.jpg)" >
-<table width="100%" height="232" border="0" cellpadding="0" cellspacing="0" style="background-position:left top;background-repeat:no-repeat; background-image: url(App_Themes/green/images/header.jpg)" >
-<tr>
-<td align="right">
-<table width="250" height="104" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" style="padding-bottom:10px;">
-<a href="index.html">
-<img src="App_Themes/green/images/logooo.jpg" class="img_logo_cssclass1" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="company">vzw Munnange</td>
-</tr>
-<tr>
-<td align="center" valign="middle" class="slogan">
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td align="right" style="background-image: url(App_Themes/green/images/titlebg.jpg)" >
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td class="text-header">Inleefreis (Nederlands)</td>
-<td width="30" align="right">
-<img src="App_Themes/green/images/titlebullet.jpg" class="img_titlebullet"/>
-</td>
-<td>
-<img src="App_Themes/green/images/blank.gif" class="img_blank"/>
-</td>
-<td>
-<img src="App_Themes/green/images/vhr.jpg" class="img_vhr_1"/>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-<td width="193" align="right" style="background-image: url(App_Themes/green/images/menubg.gif)" >
-<table width="95%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td width="30">
-<img src="App_Themes/green/images/bullet.gif" class="img_bullet"/>
-</td>
-<td width="142" align="left">
-<a href='index.html' class="menu" >Context en project (Nederlands)</a>
-</td>
-<td width="3" align="left" class="menu">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1_1"/>
-</td>
-</tr>
-<tr>
-<td height="3">
-</td>
-<td height="3" colspan="2" align="left" style="background-image: url(App_Themes/green/images/menuhr.jpg)" >
-<img src="App_Themes/green/images/menuhr.jpg" class="img_menuhr_1"/>
-</td>
-</tr>
-<tr>
-<td width="30">
-<img src="App_Themes/green/images/bullet.gif" class="img_bullet"/>
-</td>
-<td width="142" align="left">
-<a href='index.en.html' class="menu" >Context and project (English)</a>
-</td>
-<td width="3" align="left" class="menu">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1_1"/>
-</td>
-</tr>
-<tr>
-<td height="3">
-</td>
-<td height="3" colspan="2" align="left" style="background-image: url(App_Themes/green/images/menuhr.jpg)" >
-<img src="App_Themes/green/images/menuhr.jpg" class="img_menuhr_1"/>
-</td>
-</tr>
-<tr>
-<td width="30">
-<img src="App_Themes/green/images/bullet.gif" class="img_bullet"/>
-</td>
-<td width="142" align="left">
-<a href='team.html' class="menu" >Counselling team</a>
-</td>
-<td width="3" align="left" class="menu">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1_1"/>
-</td>
-</tr>
-<tr>
-<td height="3">
-</td>
-<td height="3" colspan="2" align="left" style="background-image: url(App_Themes/green/images/menuhr.jpg)" >
-<img src="App_Themes/green/images/menuhr.jpg" class="img_menuhr_1"/>
-</td>
-</tr>
-<tr>
-<td width="30">
-<img src="App_Themes/green/images/bullet.gif" class="img_bullet"/>
-</td>
-<td width="142" align="left">
-<a href='contact.html' class="menu" >Contact</a>
-</td>
-<td width="3" align="left" class="menu">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1_1"/>
-</td>
-</tr>
-<tr>
-<td height="3">
-</td>
-<td height="3" colspan="2" align="left" style="background-image: url(App_Themes/green/images/menuhr.jpg)" >
-<img src="App_Themes/green/images/menuhr.jpg" class="img_menuhr_1"/>
-</td>
-</tr>
-<tr>
-<td width="30">
-<img src="App_Themes/green/images/bullet.gif" class="img_bullet"/>
-</td>
-<td width="142" align="left">
-<a href='inleefreis.html' class="amenu" >Inleefreis (Nederlands)</a>
-</td>
-<td width="3" align="left" class="amenu">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1_1"/>
-</td>
-</tr>
-<tr>
-<td height="3">
-</td>
-<td height="3" colspan="2" align="left" style="background-image: url(App_Themes/green/images/menuhr.jpg)" >
-<img src="App_Themes/green/images/menuhr.jpg" class="img_menuhr_1"/>
-</td>
-</tr>
-<tr>
-<td width="30">
-<img src="App_Themes/green/images/bullet.gif" class="img_bullet"/>
-</td>
-<td width="142" align="left">
-<a href='ImageGallery/CategoryList.aspx?id=d0c85e75-4326-4b9b-bd47-76abc703a748&m=0' class="menu" >Foto's / Pictures</a>
-</td>
-<td width="3" align="left" class="menu">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1_1"/>
-</td>
-</tr>
-<tr>
-<td height="3">
-</td>
-<td height="3" colspan="2" align="left" style="background-image: url(App_Themes/green/images/menuhr.jpg)" >
-<img src="App_Themes/green/images/menuhr.jpg" class="img_menuhr_1"/>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td>
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td rowspan="3" align="left" valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td>
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1"/>
-</td>
-</tr>
-</table>
-<table width="100%" border="0" cellpadding="30" cellspacing="0">
-<tr>
-<td class="pageContent" name="SB_stretch">
-<font face="Arial, sans-serif">
-
-<h1>EEN 12-DAAGS AVONTUUR</h1>
-<p>	In 2015 organiseert vzw Munnange in
-samenwerking met Matoke Tours opnieuw een inleefreis naar Oeganda, ‘de parel van
-Afrika’. Tijdens deze reis nemen we jullie mee naar de ongekende natuurpracht
+---
+layout: default
+title: Inleefreis
+---
+# EEN 12-DAAGS AVONTUUR
+In 2015 organiseert vzw Munnange in
+samenwerking met Matoke Tours opnieuw een inleefreis naar Oeganda, &quot; de parel van
+Afrika &quot;. Tijdens deze reis nemen we jullie mee naar de ongekende natuurpracht
 van Oeganda en leren we het land van binnenuit kennen. Er is veel contact met de
 plaatselijke bevolking, we bezoeken organisaties, verblijven bij de mensen
 thuis, bezoeken verschillende samenwerkingspartners ter plaatse, maken kennis
@@ -217,53 +14,56 @@ openheid; de pijlers van onze vzw. Er is veel ruimte voorzien om verhalen te
 beluisteren, ervaringen te delen en van gedachten te wisselen. De reis wordt
 begeleid door leden van de Raad van Bestuur van vzw Munnange en ervaren
 Oegandese chauffeurs (ondermeer voor Matoke Tours).
- </p>
-<p>Een combinatie van safari en kennismaking met de lokale bevolking en
+
+Een combinatie van safari en kennismaking met de lokale bevolking en
 verschillende plaatselijke projecten geven je een divers en compleet beeld van
-een nog onontdekte parel in Afrika.</p>
+een nog onontdekte parel in Afrika.
 <img style="WIDTH: 250px; HEIGHT: 206px" src="MyImages/P1030116.jpg" width="291" height="252" imageid="">
 <img src="MyImages/uganda 204.jpg" width="268" height="206" imageid="">
 <img style="WIDTH: 175px; HEIGHT: 205px" src="MyImages/uganda 184.jpg" width="214" height="337" imageid="">
-<br>
-<p>DE INLEEFREIS: &plusmn; &euro;1400</p>
-	<p>Deze prijs is gebaseerd op 7 deelnemers. Wanneer het aantal deelnemers stijgt,
+
+DE INLEEFREIS: &plusmn; &euro;1400
+
+Deze prijs is gebaseerd op 7 deelnemers. Wanneer het aantal deelnemers stijgt,
 daalt de prijs per persoon. Inbegrepen:
-<ul>
- <li>Transport met een 4x4 minibus met open dak voor een perfect safari zicht.</li>
- <li>Alle brandstof voor de toer.</li>
- <li>Engels sprekende Oegandese gids/chauffeur.</li>
- <li>Nederlandse begeleider van Munnange</li>
- <li>Accommodatie</li>
- <li>Maaltijden zoals vermeld in het programma</li>
- <li>Activiteiten zoals vermeld in het programma</li>
- <li>Entreegelden van de parken</li>
-</ul>
-</p>
-<p>HET VLIEGTUIGTICKET: &plusmn; &euro; 700</p>
-	<p>De vliegtickets zijn niet inclusief in de prijs van deze reis. Wel kunt u
-	het vliegticket via Matoke Tours boeken. De kosten van uw vliegticket worden
-	dan vermeld op de factuur van de reis.</p>
-<p>EXTRA’S: &plusmn; &euro; 200</p>
-<ul>
-	<li>Visa Oeganda</li>
-	<li>Vaccinaties</li>
-	<li>Drankjes</li>
-	<li>Fooien voor rangers, gids/chauffeur, hotelpersoneel</li>
-	<li>Persoonlijke uitgaven zoals souvenirs, snacks, enz.</li>
-</ul>
-<p>Een visum voor Oeganda kan gekocht worden bij aankomst op de luchthaven van
-	Entebbe en kost USD 50 per persoon.</p>
-<p>
-	Als je geïnteresseerd bent, stuur ons dan een
-	<a href="mailto:munnange.vzw@gmail.com">mailtje</a>.
-	Je krijgt dan een uitgebreid reisprogramma en de betalingsvoorwaarden
-	toegestuurd. Pas na betaling van het voorschot is je deelname definitief. De
-	reis wordt enkel georganiseerd als er minimum 7 deelnemers zijn tot een
-	maximum van 15 deelnemers. Hoe meer deelnemers, hoe lager de kostprijs.
-</p>
-<h1>Impressies vorige inleefreizen</h1>
-<h2>Armin Debbaut, deelnemer inleefreis 2014</h2>
-<p>
+
+* Transport met een 4x4 minibus met open dak voor een perfect safari zicht.
+* Alle brandstof voor de toer.
+* Engels sprekende Oegandese gids/chauffeur.
+* Nederlandse begeleider van Munnange
+* Accommodatie
+* Maaltijden zoals vermeld in het programma
+* Activiteiten zoals vermeld in het programma
+* Entreegelden van de parken
+
+HET VLIEGTUIGTICKET: &plusmn; &euro; 700
+
+De vliegtickets zijn niet inclusief in de prijs van deze reis. Wel kunt u
+het vliegticket via Matoke Tours boeken. De kosten van uw vliegticket worden
+dan vermeld op de factuur van de reis.
+
+EXTRA’S: &plusmn; &euro; 200
+
+* Visa Oeganda
+* Vaccinaties
+* Drankjes
+* Fooien voor rangers, gids/chauffeur, hotelpersoneel
+* Persoonlijke uitgaven zoals souvenirs, snacks, enz.
+
+Een visum voor Oeganda kan gekocht worden bij aankomst op de luchthaven van
+Entebbe en kost USD 100 per persoon.
+
+Als je geïnteresseerd bent, stuur ons dan een
+<a href="mailto:munnange.vzw@gmail.com">mailtje</a>.
+Je krijgt dan een uitgebreid reisprogramma en de betalingsvoorwaarden
+toegestuurd. Pas na betaling van het voorschot is je deelname definitief. De
+reis wordt enkel georganiseerd als er minimum 7 deelnemers zijn tot een
+maximum van 15 deelnemers. Hoe meer deelnemers, hoe lager de kostprijs.
+
+# Impressies vorige inleefreizen
+
+## Armin Debbaut, deelnemer inleefreis 2014
+
 Twee weken Oeganda. Daar denk je toch eerst even goed
 over na. Ik, die nooit verder dan de Belgische buurlanden
 was gereisd. De reis was duidelijk omkaderd, ik kon mij
@@ -272,14 +72,12 @@ overstag. Maanden later landde ik voor het eerst op
 Oegandese grond. Hier werd de opbouw van de reis
 duidelijk: langzaam werden we ondergedompeld in het
 Oegandese leven.
-</p>
-<p>
+
 Maar Oeganda zou niet in Afrika liggen, mocht er niets
 onverwachts gebeuren. Dat zegt men althans, de
 reisbegeleiders hielden ons weg van de nare twisten maar
 lieten ons de aangename ervaren.
-</p>
-<p>
+
 Mijn leukste herinnering is misschien wel het gevolg van
 zo'n onverwachte twist. Er werd ons een alternatief
 programma voorgesteld zodat we chimpansees konden
@@ -293,46 +91,39 @@ belandden maar wel vanwege de unanieme spontaniteit
 die was gegroeid in onze groep. Vanwege het achtervolgen
 van het gekrijs van de chimpansees om ze uiteindelijk ook
 te zien.
-</p>
-<p>
+
 De landschappen heb ik niet kunnen meenemen naar huis
 maar de vriendschappen wel.
-</p>
 
-<h2>Riet, deelneemster inleefreis oktober 2013</h2>
-<p>
-	Op 7 oktober staan we, in alle vroegte, met 9 klaar in Zaventem, elk met z’n
-	bagage en een valies vol spullen voor Oeganda. Elkeen heeft ook een heleboel
-	verwachtingen, spanningen… benieuwd naar wat ons te wachten staat!</span>
- </p>
-<p>
-	Laat op de avond worden we in Entebbe verwelkomd door Maika en onze 2
-	chauffeurs, Sula en Kenneth. De volgende morgen begint het echte verhaal!
-</p>
-<p>
+## Riet, deelneemster inleefreis oktober 2013
+
+Op 7 oktober staan we, in alle vroegte, met 9 klaar in Zaventem, elk met z’n
+bagage en een valies vol spullen voor Oeganda. Elkeen heeft ook een heleboel
+verwachtingen, spanningen… benieuwd naar wat ons te wachten staat!
+
+Laat op de avond worden we in Entebbe verwelkomd door Maika en onze 2
+chauffeurs, Sula en Kenneth. De volgende morgen begint het echte verhaal!
+
 We komen ogen, oren en neuzen, woorden tekort om alles te observeren en op
 te slaan. Elk van ons heeft zijn eigen manier van kijken, verwerken, beleven… we
 zijn met z’n allen nieuwsgierig, kritisch, enthousiast,ontgoocheld, onder de
 indruk! Tijdens de maaltijden en in ons busje is er tijd om te discussiëren over
 waar we met verschillende ogen en achtergrond naar kijken maar ook tijd om te
 grappen en te grollen en te ontladen.
-</p>
-<p>
+
 Deze reis is een goede mix van toerisme en inleven: Oeganda is een mooi land
 met afwisselende natuur: een zeer groen landbouwland.
 We hebben kuddes olifanten en neushoorns
 van ver en dichtbij gezien; giraffen,waterbokken, buffels, krokodillen,
 nijlpaarden en impala’s poseerden voor onze lens. Vogels in alle kleuren.
 Onvergetelijke landschappen rolden als een film voorbij. En we genoten!
-</p>
-<p>
+
 Oeganda is ook een rijk waterland:het Victoriameer is de grootste plas; de Nijl
 heeft er zijn bron en overal stroomt er water met indrukwekkende watervallen...
 In sommige dorpen is er een gemeenschapspomp voor water voorzien. Bovendien
 begon het regenseizoen en na zo'n plensbui weet je wat het betekent 'met bakken
 uit de hemel vallen'!
-</p>
-<p>
+
 Oeganda heeft een
 uitgebreid wegennet en volgens de Oegandezen in redelijk goede staat. Maar eens
 je er rijdt kan je meestal genieten van de African Massage: een zware test voor
@@ -340,21 +131,19 @@ je zitknobbels en een hele kunst om zonder blauwe plekken thuis te komen. Er is
 ook georganiseerd openbaar vervoer: minibusjes doorkruisen het hele land.
 Wettelijk maximum 14 personen: maar dat is een rekbaar begrip... dus zolang
 iedereen wat krap wil zitten kan er nog altijd eentje bij ook al heeft die
-kippen of zakken vol boodschappen naar huis te brengen.</span> </p>
- <p>
+kippen of zakken vol boodschappen naar huis te brengen.
+
 Maar de snelste manier om zich te
 verplaatsen zijn de boda-boda's: moto's met chauffeur die het hele land
 doorkruisen met 1, 2, 3 passagiers achterop of tonnen water, stapels
 brandhout,trossen bananen, zelfs kippen, geiten of varkens vastgebonden met
 fietsband.Zij brengen ook je boodschappen naar huis.
- </p>
-<p>
+
 Ook fietsen zijn handig: je rijdt
 ermee tot die vol geladen is en dan stap je zo terug naar huis. En als dat
 allemaal niet voorhanden is heb je nog altijd je hoofd om vol te laden tot
 niemand nog ziet wie je bent!
-</p>
-<p>
+
 Inleven is deel uitmaken van het dagelijkse leven: het leven in een dorp
 met de lokale bevolking. Dat betekent dat je geen aardappelen kunt halen in de
 winkel maar vandaag moet planten om binnen 2 maanden te oogsten. Dat betekent
@@ -364,8 +153,7 @@ vertrekken en zorgen dat je voor een eerlijke prijs probeert te kopen wat je
 nodig hebt. De boda-boda brengt het wel naar huis!Gelukkig maken vele handen
 licht werk: onze maaltijd geraakt op tijd klaar en we kunnen ervan
 genieten.
-</p>
-<p>
+
 Overal werden we goed
 ontvangen: iedereen blij met het bezoek van de muzungu (blanken) en trots op hun
 realisaties…. We ontmoetten fiere mensen met veel dynamisme en een visie om u
@@ -373,34 +161,32 @@ tegen te zeggen!... maar ook mensen die het negatieve beeld dat we hebben over
 de afrikaan alle eer aandoen:zij horen zichzelf graag praten ook al heeft wat ze
 zeggen geen inhoud en ze blijven ervan overtuigd dat alleen hulp van buiten af
 hen verder kan brengen…en zij wachten…
-</p>
-<p>
+
 Terug thuis met een schat aan beelden,
 indrukken, visies en warme herinneringen proberen we met onze verhalen te
 brengen wat we mochten beleven.
-</p>
-<p>
+
 Soms rijst de vraag: is dit wel zinvol?
-<BR>
+
 JA: zolang wij kunnen
 moeten we investeren in een landwaar de middelen beheerd worden door mensen die
 status en macht als hun hoogste goed beschouwen en vergeten dat er initiatief en
 potentieel voldoende is om een leefbare wereld uit te bouwen.
-</p>
-<p>Dank aan hen die ons hierin voorgaan!<p>
-<p> Dank ook aan alle medereizigers die elk met hun eigen zijn en inbreng een
-grote meerwaarde betekenen voor wat we leerden kennen.<p>
-</p>
-<p>
+
+Dank aan hen die ons hierin voorgaan!
+
+Dank ook aan alle medereizigers die elk met hun eigen zijn en inbreng een
+grote meerwaarde betekenen voor wat we leerden kennen.
+
 Het rode stof is al uit de
 kleren,maar de stof tot nadenken nog niet helemaal geordend in mijn hoofd!
 Afrika laat me nooit meer los!
-</p>
-<p>
+
 Weebale (gegroet en dank voor het werk dat je voor ons doet)!
-</p>
-<h2>Hugo Verhaege, deelnemer inleefreis oktober 2013</h2>
-<p><u>Droomreis</u><BR>
+
+## Hugo Verhaege, deelnemer inleefreis oktober 2013
+
+### Droomreis ###
 Midden in mijn dorp,<BR>
 of amper een steenworp<br>
 daarvandaan,<br>
@@ -436,13 +222,17 @@ puur en naakt herboren<br>
 in het zwarte Afrika<br>
 en ik weer lachen leer, naïef en zonder zorg.<br>
 al was het maar voor even.<br>
-<h2>Jan Luyssaert, deelnemer inleefreis oktober 2013</h2>
-<p><u>Tussen werkelijkheid en droom (en vice versa)</u></p>
-<p>Deze reis verschilde van vorige alleen al door de verscheidenheid van
+
+## Jan Luyssaert, deelnemer inleefreis oktober 2013
+
+__Tussen werkelijkheid en droom (en vice versa)__
+
+Deze reis verschilde van vorige alleen al door de verscheidenheid van
 deelnemers: een jonge maatschappelijk assistente en gepensioneerden uit de
 medische-en welzijnssector, het onderwijs, het bedrijfsleven en de handel. Ieder
-met zijn eigen achtergrond en zijn eigen kijk op de werkelijkheid.</p>
-<p>Het
+met zijn eigen achtergrond en zijn eigen kijk op de werkelijkheid.
+
+Het
 is ook verleidelijk om hier uit te weiden over de indrukwekkende natuur, het
 fokprogramma voor neushorens, de kudden olifanten die Riet telkens opnieuw in
 vervoering brachten, de bootsafari naar de Murchison Falls, de zoektocht naar de
@@ -452,11 +242,13 @@ we niet kunnen fotograferen, zijn de indrukken die we hebben opgedaan bij onze
 wandeling door de dorpen, een meeleef voormiddag bij een Oegandese familie, de
 kennismaking met het Kisubi-ziekenhuis, de Kisoboka-straatkinderen,
 Taso-Aidskliniek, de vissersschool, de Early Learning School, de markt, de
-kookles en de bewogen recente geschiedenis van Oeganda.</p>
-<p>Het zou me te
+kookles en de bewogen recente geschiedenis van Oeganda.
+
+Het zou me te
 ver leiden als ik de indrukken die ik bij ieder bezoek heb opgedaan hier zou
-neerpennen, daarom maak ik een willekeurige selectie.</p>
-<p>Ik wil alvast
+neerpennen, daarom maak ik een willekeurige selectie.
+
+Ik wil alvast
 beginnen met het Munnange Counselling Centre, gehuisvest op de campus van Nkumba
 University in Entebbe. Sedert oktober 2012 is de Oegandese counsellor Lucy er in
 dienst. We konden ervaren dat Lucy in het voorbije jaar het centrum inhoudelijk
@@ -464,8 +256,10 @@ op de kaart heeft gezet op de universiteitscampus, in de omliggende communities
 en in het bijzonder in de Early Learning School en in het Kisubi-ziekenhuis
 (maar hierover heb ik het verder). Het kantoortje van Munnange kreeg nieuw
 meubilair die het bezoek van de cliënten comfortabeler en aangenamer moeten
-maken. De groeiende vraag naar psychische hulp vraagt om meer personeel.</p>
-<p>Kisoboka-project in Jinja.<BR>
+maken. De groeiende vraag naar psychische hulp vraagt om meer personeel.
+
+### Kisoboka-project in Jinja.
+	
 Kisoboka betekent in de plaatselijke taal ‘het is mogelijk’. In dit project
 worden straatjongeren opgevangen en leren ze hun eigen leven in handen nemen.
 Vele van die jongeren snuiven lijm, liggen langs een verlaten spoorlijn de nacht
@@ -484,11 +278,13 @@ in fel contrast tot de gebrekkige dagdagelijkse organisatiemogelijkheden en
 -moeilijkheden die we tijdens ons verblijf in Oeganda zo vaak hebben ontmoet.
 Goed georganiseerd zijn wel het leger en politie. Politiepatrouilles staan er om
 de kilometer langs de grote wegen en tegen het einde van de week wordt het
-aantal controles opgedreven want ze brengen een mooie weekendfooi op.</p>
-<p>Maar nu terug naar onze ‘citytour’ door Jinja. Langs een verlaten, met
+aantal controles opgedreven want ze brengen een mooie weekendfooi op.
+
+Maar nu terug naar onze ‘citytour’ door Jinja. Langs een verlaten, met
 viezigheid en stinkend afval bedekte spoorlijn, daterend uit de Engelse tijd,
-brengt de gids ons naar de markt.</p>
-<p>Op de markt worden vooral samengeperste balen kleren te koop
+brengt de gids ons naar de markt.
+
+Op de markt worden vooral samengeperste balen kleren te koop
 aangeboden, waarschijnlijk afkomstig uit de verzamelbakken die her en der het
 straatbeeld in ons land ontsieren. Uit autobanden worden sandalen gesneden en
 een snuggere kerel drijft er met het onderstel van een fiets zijn slijpsteen
@@ -496,8 +292,9 @@ aan. Ze laten zich maar al te graag fotograferen. Wie echter de camera schuwt is
 de medicijnman:in zijn donker kraam verkoopt hij allerlei vreemde en magische
 voorwerpen,verwrongen boomwortels, slangenhuiden, schedeltjes, touwen met knopen
 erin die genezing van allerlei duistere kwalen beloven. Betoverend kan je deze
-markt niet noemen… </p>
-<p>Een wandeling door het dorp in de nabijheid van onze lodge “The Haven” is een
+markt niet noemen...
+
+Een wandeling door het dorp in de nabijheid van onze lodge “The Haven” is een
 ware verademing en leert ons meer over de verkwikkende kant van het dagelijks
 leven dan de weinig opbeurende slentergang door de markt van Jinja. Onder
 leiding van Charles, zelf een inwoner van het dorp en kelner in onze lodge,
@@ -518,8 +315,9 @@ mee te nemen, misschien groeien ze wel in zijn serre thuis. Een dorpsomroeper
 rijdt op zijn bromfiets tussen de verspreide hutten en in een megafoon meldt hij
 het overlijden van een baby. Uit het huisje, waar het kindje is overleden, horen
 we het (verplichte) geweeklaag van de buurvrouwen. Ook dat hoort bij het leven
-van de dorpsgemeenschap.</p>
-<p>Het Kisubi-ziekenhuis bij Entebbe ligt verspreid over verscheidene gebouwen
+van de dorpsgemeenschap.
+
+Het Kisubi-ziekenhuis bij Entebbe ligt verspreid over verscheidene gebouwen
 op een bebloemd en groen terrein. Alles ziet er piekfijn en verzorgd uit.
 Duidelijke bordjes leiden de patiënten naar de dienst die ze zoeken. Je voelt en
 ziet hierachter een visie, een management en een goed draaiende organisatie,
@@ -535,9 +333,10 @@ paar keer per week langs. Tot slot worden we ontvangen door de hoofdgeneesheer.
 Hij is een overtuigd bezieler van het holisme: dit is een visie
  waarin de mens
 als een geheel van lichaam en geest wordt gezien. Een ziekte is meer dan een
-lichamelijke kwaal, ook psychisch lijden is lijden.</p>
-<p>De Early Learning School in Entebbe werd in 1993 gesticht door
- Agnes
+lichamelijke kwaal, ook psychisch lijden is lijden.
+
+De Early Learning School in Entebbe werd in 1993 gesticht door
+Agnes
 Biryahwaho die nog steeds de leiding van de school in handen heeft. In de school
 en het internaat worden wezen en verlaten kinderen opgevangen. Schrijnende
 verhalen horen we. Kinderen die door hun ouders werden mishandeld of ergens
@@ -553,7 +352,8 @@ hun persoonlijke spulletjes. Als we na ons bezoek de school verlaten, vraagt een
 jongen of we de volgende keer een voetbal willen meebrengen. De volgende dag
 worden een paar voetballen door Munnange aan de school geschonken. Die indrukken
 van dit bezoek beklijven en beheersen nog steeds onze gesprekken.
-<p>Oeganda is een land met vele
+
+Oeganda is een land met vele
 verschillende snelheden. Dorpjes waar het leven voort suddert, ver weg van de
 bewoonde wereld, geen elektriciteit, geen drinkbaar water in de nabijheid, geen
 radio, geen TV, als enig contactmiddel is bij velen de GSM doorgedrongen. De
@@ -564,93 +364,3 @@ gemengd met de stank van gistende grachten. Mensen wriemelen en wringen zich
 door het stikkende verkeer. Heel anders is het leven op de heuvels rond de stad.
 Die zijn voorbehouden aan de rijken, zowel blanken als Oegandezen. En ook dat is
 dan weer een verhaal tussen droom en werkelijkheid (en vice versa).
-</p>
-</div>
-<img src="SiteBuilder.Modules.Statistics.ashx" /> <br />
-</td>
-</tr>
-</table>
-</td>
-<td width="1" rowspan="3" style="background-image: url(App_Themes/green/images/vhr.jpg)" >
-<img src="App_Themes/green/images/vhr.jpg" class="img_vhr_1_1"/>
-</td>
-<td width="193" height="20" align="right" valign="top">
-<img src="App_Themes/green/images/hr.jpg" class="img_hr"/>
-</td>
-</tr>
-<tr>
-<td width="193" align="right" valign="top">
-<table border="0" cellpadding="0" cellspacing="0">
-
-</table>
-</td>
-</tr>
-<tr>
-<td width="193" align="right">
-<img src="App_Themes/green/images/blank.gif" class="img_blank_1_1"/>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-<tr>
-<td height="3">
-<img src="App_Themes/green/images/hr.jpg" class="img_hr_1"/>
-</td>
-</tr>
-<tr>
-<td height="68">
-<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" valign="middle">
-<table border="0" cellpadding="2" cellspacing="0">
-<tr>
-<td align="left">
-<a href='index.html' class="bmenu" id="bmenu1" >Context en project (Nederlands)</a>
-</td>
-<td align="left" class="bmenu" style="padding-left:8px;">
-<img src="App_Themes/green/images/btmenubullet.jpg" class="img_btmenubullet"/>
-</td>
-<td align="left">
-<a href='index.en.html' class="bmenu" id="bmenu1" >Context and project (English)</a>
-</td>
-<td align="left" class="bmenu" style="padding-left:8px;">
-<img src="App_Themes/green/images/btmenubullet.jpg" class="img_btmenubullet"/>
-</td>
-<td align="left">
-<a href='team.html' class="bmenu" id="bmenu1" >Counselling team</a>
-</td>
-<td align="left" class="bmenu" style="padding-left:8px;">
-<img src="App_Themes/green/images/btmenubullet.jpg" class="img_btmenubullet"/>
-</td>
-<td align="left">
-<a href='contact.html' class="bmenu" id="bmenu1" >Contact</a>
-</td>
-<td align="left" class="bmenu" style="padding-left:8px;">
-<img src="App_Themes/green/images/btmenubullet.jpg" class="img_btmenubullet"/>
-</td>
-<td align="left">
-<a href='inleefreis.html' class="abmenu" id="abmenu" >Inleefreis (Nederlands)</a>
-</td>
-<td align="left" class="bmenu" style="padding-left:8px;">
-<img src="App_Themes/green/images/btmenubullet.jpg" class="img_btmenubullet"/>
-</td>
-<td align="left">
-<a href='ImageGallery/CategoryList.aspx?id=d0c85e75-4326-4b9b-bd47-76abc703a748&m=0' class="bmenu" id="bmenu1" >Foto's / Pictures</a>
-</td>
-</tr>
-</table>
-</td>
-<td width="1" style="background-image: url(App_Themes/green/images/vhr.jpg)" >
-<img src="App_Themes/green/images/vhr.jpg" class="img_vhr_1_1"/>
-</td>
-<td width="193" align="center" valign="middle" class="footer">
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</form>
-</body>
-</html>
