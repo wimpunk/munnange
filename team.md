@@ -2,8 +2,7 @@
 layout: default
 title: Team
 ---
-# COUNSELLING TEAM
+# Counseling Team
 
-<img src="MyImages/foto.jpg">
-
-Micheal Nsamba, Abdu Ismail Amah, Simon Magale en Jamilah Nantale
+Micheal Nsamba and Jamilah Nantale are currently our counseling team.
+More info will be added soon.
