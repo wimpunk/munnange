@@ -64,7 +64,7 @@ smateri&euml;le hulp.
 
 Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op individuele veranderingen of het lenigen van individuele noden en concentreert zich op het uitbouwen van een aanbod voor psychosociale hulpverlening in Oeganda:
 
-1. ** Centrum voor psychologische hulpverlening op de campus van Nkumba University**
+1. **Centrum voor psychologische hulpverlening op de campus van Nkumba University**
 
     Munnange Counselling Centre werd officieel geopend in april 2012 en heeft
     momenteel twee betaalde Oegandese counsellors in dienst, Michael Nsamba en
@@ -87,7 +87,7 @@ Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op indiv
     pati&euml;nten door naar MCC waardoor er een zeer waardevolle
     samenwerking is ontstaan.
 
-1. ** Outreachende hulpverlening **
+1. **Outreachende hulpverlening**
 
     Sinds de oprichting kregen we verscheidene vragen van organisaties en
     scholen in de directe omgeving van Nkumba University om counselling
