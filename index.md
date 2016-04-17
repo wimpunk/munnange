@@ -25,10 +25,10 @@ toegankelijke hulp wordt geboden. Er is gebrek aan personeel, aan knowhow en
 aan een concreet hulpverleningsaanbod om aan deze psychologische en 
 emotionele noden tegemoet te komen.
 
-Vanuit de overtuiging dat we een verschil kunnen maken werd in 2011 
-vzw Munnange opgericht. Munnange betekent "mijn vriend" in het Luganda, 
-&eacute;&eacute;n van de meest gesproken talen in Oeganda. In april 2012 ging 
-Munnange counseling centre - gelegen op de campus van Nkumba University - 
+Vanuit de overtuiging dat we een verschil kunnen maken werd in 2011 vzw Munnange
+opgericht. Munnange betekent &quot;mijn vriend&quot; in het Luganda,
+&eacute;&eacute;n van de meest gesproken talen in Oeganda. In april 2012 ging
+Munnange counseling centre - gelegen op de campus van Nkumba University -
 officieel open.
 
 Sindsdien is er heel wat gebeurd: we breidden onze hulpverlening uit naar de
@@ -62,7 +62,10 @@ smateri&euml;le hulp.
 
 # Werking
 
-Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op individuele veranderingen of het lenigen van individuele noden en concentreert zich op het uitbouwen van een aanbod voor psychosociale hulpverlening in Oeganda:
+Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op
+individuele veranderingen of het lenigen van individuele noden en concentreert
+zich op het uitbouwen van een aanbod voor psychosociale hulpverlening in
+Oeganda:
 
 1. **Centrum voor psychologische hulpverlening op de campus van Nkumba University**
 
@@ -74,10 +77,10 @@ Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op indiv
 
     Elke laatste woensdag van de maand organiseert Munnange counseling centre
     (MCC) een infosessie voor studenten aan de universiteit. Sessies gaan over
-    diverse thema's, zoals het leven op en na de universiteit, alcohol- en
-    drugsverslaving, weerbaarheid, relatievorming, etc. MCC neemt ook deel aan 
+    diverse thema &#39;s, zoals het leven op en na de universiteit, alcohol- en
+    drugsverslaving, weerbaarheid, relatievorming, etc. MCC neemt ook deel aan
     verschillende evenementen op de campus. Zo geven we uitleg over de werking
-    van het centrum tijdens de kennismakingsweek voor nieuwe studenten en 
+    van het centrum tijdens de kennismakingsweek voor nieuwe studenten en
     tijdens de gezondheidsweek.
 
     Daarnaast werken we ook intensief samen met het gezondheidscentrum
@@ -97,7 +100,7 @@ Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op indiv
     - _Politiekantoor van Entebbe en het politiekantoor in Abaita_
 
         In het politiekantoor van Entebbe bieden we twee dagen per week
-        counseling aan op het departement 'familie en gezin'. Jamilah en
+        counseling aan op het departement &#39;familie en gezin&#39;. Jamilah en
         Micheal ondersteunen er de lokale politie. Ze worden ingeschakeld in
         moeilijke familiale situaties (echtscheiding, familiaal geweld,
         mishandeling en misbruik). We hebben ook een samenwerking met het
@@ -108,8 +111,7 @@ Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op indiv
     Hier zullen we een programma aanbieden ter ondersteuning van de
     re-integratie van gedetineerden bij hun terugkeer naar de samenleving.
 
-    - _Omliggende gemeenschappen: Nkumba Bufulu (Kitawuluzi) en 
-    Nkumba Bukolwa_
+    - _Omliggende gemeenschappen: Nkumba Bufulu (Kitawuluzi) en Nkumba Bukolwa_
 
         In de omliggende gemeenschappen werkt MCC samen met de dorpshoofden
         van deze gemeenschappen. Elke woensdagnamiddag heeft er een counsellor
@@ -142,9 +144,9 @@ Vzw Munnange wil zich richten op structurele veranderingen, veeleer dan op indiv
     - _Divine Child Primary School and orphanage:_ zelfde werking als st Noah
     Secondary school en Early Learning school
 
-    - _May Christian College Nkumba :_ zelfde werking als st Noah Secondary
+    - _May Christian College Nkumba :_ zelfde werking als Saint Noah Secondary
     school
-    - _Entebbe parents school:_ zelfde werking als st Noah Secondary school
+    - _Entebbe parents school:_ zelfde werking als Saint Noah Secondary school
 
  
 # Hulpverlening
@@ -165,12 +167,12 @@ individuele counselling. De hulpvragen zijn zeer gevarieerd :
 
 We proberen kennis en expertise uit te wisselen en dit in samenwerking met de
 HogeschoolVIVES. Er werden al verschillende workshops en conferenties
-georganiseerd op de campus van Nkumba University om de opleiding 
-"Psychological guidance and counselling" te versterken, wat op termijn zal
-leiden tot een uitgebreid sociaal en professioneel netwerk en tot nog beter
+georganiseerd op de campus van Nkumba University om de opleiding
+&quot;Psychological guidance and counselling&quot; te versterken, wat op termijn
+zal leiden tot een uitgebreid sociaal en professioneel netwerk en tot nog beter
 geschoolde counsellors. Jaarlijks zijn er ook studenten van de opleidingen
-sociaal werk en toegepast psychologie die in MCC, gedurende vier maanden,
-een project uitwerken in het kader van hun bachelor proef.
+sociaal werk en toegepast psychologie die in MCC, gedurende vier maanden, een
+project uitwerken in het kader van hun bachelor proef.
 
 # Vrijwilligerswerk
 
@@ -178,3 +180,7 @@ Ben je ge&iuml;nteresseerd in ons project en heb je zin om vrijwilligerswerk
 te doen? Dat kan! Voor meer informatie, kan je ons altijd een mailtje sturen.
 Zo kunnen we samen bekijken wat de mogelijkheden zijn en op zoek gaan naar
 een project dat bij je past.
+
+<!---
+vim: set sw=4 ts=4 et tw=80 :
+-->
