@@ -35,7 +35,7 @@ U kan dit doen door een &eacute;&eacute;nmalige gift of via een permanente
 opdracht. Wij willen ook een warme oproep doen om activiteiten te organiseren binnen
 uw verenigingen, scholen, bedrijven, vrienden- of familiekring en een deel
 of de volledige opbrengst daarvan te schenken aan vzw Munnange.<br>
-Ons rekeningnummer is IBAN BE91 363-0924058-76
+Ons rekeningnummer is IBAN BE91 3630 9240 5876
 
 *Zin in een heerlijke kop Oegandese koffie?*
 
