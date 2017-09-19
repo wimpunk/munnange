@@ -4,12 +4,13 @@ title: Contact
 ---
 # Analoog
 
-Maatschappelijke zetel:<br>
+*Maatschappelijke zetel*:<br>
 Munnange vzw<br>
 Kiekenstraat 81<BR>
 9000 Gent<br>
 Belgi&euml;<br>
-Ondernemingsnummer: 0840.255.174<br>
+*Ondernemingsnummer*: 0840.255.174<br>
+*Rekeningnummer*: BE91 3630 9240 5876<BR>
 
 De Raad van Bestuur van Munnange bestaat uit volgende personen:
 
