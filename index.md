@@ -166,7 +166,7 @@ individuele counselling. De hulpvragen zijn zeer gevarieerd :
 # Samenwerking met VIVES
 
 We proberen kennis en expertise uit te wisselen en dit in samenwerking met de
-HogeschoolVIVES. Er werden al verschillende workshops en conferenties
+Hogeschool VIVES. Er werden al verschillende workshops en conferenties
 georganiseerd op de campus van Nkumba University om de opleiding
 &quot;Psychological guidance and counselling&quot; te versterken, wat op termijn
 zal leiden tot een uitgebreid sociaal en professioneel netwerk en tot nog beter
