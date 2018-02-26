@@ -2,26 +2,23 @@
 layout: default
 title: Team
 ---
-# Counseling Team
+# Staf
+- ***Jamilah Nantale***
 
-MCC staff
-Munnange counselling Center operates with two full time competent and
-hard working professional Counsellors. Additionally, the Organisation
-contracts a specialist Clinical psychologist from Makerere University
-to provide supervision of our professional counsellors to ensure
-efficacy of their work as well as satisfaction of the service
-beneficiaries.
-Roscoe Kasuja (PhD). Roscoe is the supervisor of the counselors at
-Munnange counseling Center.
+Jamilah heeft een Bachelor in Guidance and Counseling van Nkumba University. Ze is lid van de Uganda Counseling Association, de Oegandese National Professional Body of Counseling. Jamilah werkt voltijds voor MCC en is coördinator van het centrum.
 
-Nantale Jamila (BSc Couns). Jamila is a professional counselor at
-Munnange counseling Center. She has a Bachelors degree in Guidance and
-counseling and she is a full professional member of the Uganda
-counseling association which is the National professional body of
-Counseling in Uganda.
+- ***Ashiraf Lutaaya***
 
-Nsamba Micheal (BSc Couns). Micheal is also a professional counselor
-at Munnange counseling Center. He also holds a Bachelors degree in
-Guidance and counseling and he is a full professional member of the
-Uganda counseling association which is also the National professional
-body of Counseling in Uganda.
+Ashiraf heeft een Bachelor in Guidance and Counseling van Kyambogo University. Hij werkt voltijds voor MCC.
+
+- ***Grace Nakimbugwe***
+
+Grace heeft een Bachelor in Guidance and Counseling van Kyambogo University. Ze werkt deeltijds voor MCC.
+
+- ***Redemptor (Demi) Nansubuga***
+
+Demi heeft een bachelor in Counseling Psychology van Kyambogo University. Ze is verbonden aan  de St. Cyrian High School en werkt als deeltijdse counselor voor Munnange.
+
+- ***Jerald Niwagaba***
+
+Jerald is losse medewerker van Munnange.  Hij is de vaste gids en chauffeur voor de inleefreizen van Munnange (zie verder) en zorgt voor het vervoer van stafleden, vrijwilligers, docenten en studenten van Vives.
