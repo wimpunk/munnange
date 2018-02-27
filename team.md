@@ -30,3 +30,8 @@ title: Team
     Jerald is losse medewerker van Munnange.  Hij is de vaste gids en chauffeur
     voor de inleefreizen van Munnange (zie verder) en zorgt voor het vervoer
     van stafleden, vrijwilligers, docenten en studenten van Vives.
+
+<p align="center">
+<img align="center" src="/images/team.jpg"><BR>
+Van links naar rechts: Jamilah, Ashiraf, Grace en Demi. Jerald staat niet op de foto.
+</p>
